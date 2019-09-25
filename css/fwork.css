@@ -49,6 +49,10 @@ html, body {
         padding: 0px 210px;
         margin-bottom: 80px;
     }
+
+    .fwork-var {
+        padding: 0 225px;
+    }
     h1 {
         font-family: 'Gotham SSm A', 'Gotham SSm B', Helvetica, sans-serif;
         text-transform: uppercase;
@@ -273,6 +277,10 @@ html, body {
         padding: 0px;
         height: 110vh;
     }
+    .fwork-brand-values {
+        padding: 0 225px;
+    }
+    
 }
 
 @media (min-width: 992px ) and (max-width: 1199px) { 
@@ -326,6 +334,9 @@ html, body {
         width: 100vw;
         height: 70vh;
         padding: 0px 120px;
+    }
+    .fwork-var {
+        padding: 0 120px;
     }
     .fwork-image {
         margin-left: 50px;
@@ -512,6 +523,10 @@ html, body {
         margin: 25px;
         height: 10vh;
     }
+    .fwork-brand-values {
+        padding: 0 225px;
+    }
+    
 
 }
 
@@ -573,6 +588,10 @@ html, body {
         font-size: 14px;
         margin-bottom: 20px;
         text-align: center;
+    }
+    .fwork-brand-values {
+        padding: 0;
+        /* padding: 0 225px; */
     }
     
     .fwork-title {
