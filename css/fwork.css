@@ -662,6 +662,9 @@ html, body {
         align-items: center;
         justify-content: center;
     }
+    .fwork-var {
+        padding: 0 120px;
+    }
     .fwork-red {
         width: 25vw;
         height: 98px;
