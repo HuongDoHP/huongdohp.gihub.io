@@ -313,8 +313,8 @@ html, body {
     h2 {
         font-family: 'Gotham SSm A', 'Gotham SSm B', Helvetica, sans-serif;
         font-weight: 600;
-        margin-top: 45px;
-        margin-bottom: 35px;
+        margin-top: 50px;
+        margin-bottom: 50px;
         display: block;
         padding-left: 120px;
     }
@@ -328,7 +328,7 @@ html, body {
         font-family: 'Gotham SSm A', 'Gotham SSm B', Helvetica, sans-serif;
         font-weight: 200;
         font-size: 22px;
-        margin-bottom: 15px;
+        margin-bottom: 30px;
     }
     .fwork-topo {
         width: 100vw;
@@ -498,7 +498,7 @@ html, body {
         display: flex;
         text-align: center;
         justify-content: center;
-        margin-bottom: 25px;
+        margin-bottom: 40px;
     }
     .fwork-idea-concept {
         width: 114px;
