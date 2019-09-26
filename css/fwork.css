@@ -33,7 +33,7 @@ html, body {
         display: flex;
         align-items: center;
         justify-content: center;
-        margin-bottom: 20px;
+        margin-bottom: 80px;
     }
     .fwork-image {
         margin-left: 120px;
@@ -69,8 +69,8 @@ html, body {
     h2 {
         font-family: 'Gotham SSm A', 'Gotham SSm B', Helvetica, sans-serif;
         font-weight: 700;
-        margin-top: 50px;
-        margin-bottom: 50px;
+        margin-top: 80px;
+        margin-bottom: 80px;
         display: block;
         margin-left: 210px;
     }
@@ -84,7 +84,7 @@ html, body {
         font-family: 'Gotham SSm A', 'Gotham SSm B', Helvetica, sans-serif;
         font-weight: 400;
         font-size: 25px;
-        margin-bottom: 20px;
+        margin-bottom: 30px;
     }
 
     .fwork-image-title {
@@ -244,12 +244,12 @@ html, body {
         display: flex;
         text-align: center;
         justify-content: center;
-        margin-bottom: 25px;
+        margin-bottom: 80px;
     }
     .fwork-idea-concept {
         width: 114px;
         height: 70px; 
-        margin-bottom: 25px;  
+        margin: 25px 25px;
     }
     .idea-concept {
         color: #000;
@@ -259,7 +259,7 @@ html, body {
         display: flex;
         text-align: center;
         justify-content: center;
-        margin: 30px 240px;
+        margin: 50px 240px;
     }
     .fwork-brand-logo {
         /* height: 92px;   */
@@ -570,8 +570,8 @@ html, body {
         margin-left: 10px;
     }
     h2 {
-        margin-top: 20px;
-        margin-bottom: 30px;
+        margin-top: 30px;
+        margin-bottom: 35px;
         display: block;
         font-size: 16px;
         margin-left: 20px;
@@ -588,6 +588,9 @@ html, body {
         font-size: 14px;
         margin-bottom: 20px;
         text-align: center;
+    }
+    p {
+        font-size: 10px;
     }
     .fwork-brand-values {
         padding: 0;
@@ -643,12 +646,13 @@ html, body {
         padding: 0px;
     }
     .fwork-idea-concept {
-        width: 40px;
-        height: 40px;
+        width: 30px;
+        height: 30px;
+        margin: 11px 15px 10px 15px;
     }
     .idea-concept {
         color: #000;
-        margin: auto 10px;
+        margin: auto 4px;
     }
     .fwork-brand-logo {
         width: 300;
